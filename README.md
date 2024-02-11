@@ -10,4 +10,4 @@ This generator is just for funny sentences that can be a cool way to surprise ot
 
 You can try the generator directly in your Web browser here:
 
-[<img alt="Play Button" src="https://w7.pngwing.com/pngs/969/586/png-transparent-red-and-white-start-button-logo-brand-red-font-the-start-button-love-text-rectangle-thumbnail.png" />](https://replit.com/@vkesyakov/RandomSentencesGenerator)
+[<img alt="Play Button" src="https://png.pngtree.com/png-clipart/20210414/ourmid/pngtree-game-start-button-sci-fi-png-image_3169625.jpg" />](https://replit.com/@vkesyakov/RandomSentencesGenerator)
